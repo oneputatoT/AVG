@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c55bcf849c8c0c46913b884f022c004, type: 3}
+  m_Name: Story2
+  m_EditorClassIdentifier: 
+  SheetName: Assets/MyStory/Mystory.xls
+  WorksheetName: Story2
+  dataArray:
+  - dialogtext: asdasdsad
+    charadisplaya: 1
+    charadisplayb: 0
+    hasbuttonchoice: 0
+    button1text: 
+    button1msg: 
+    button2text: 
+    button2msg: 
+  - dialogtext: eng
+    charadisplaya: 0
+    charadisplayb: 1
+    hasbuttonchoice: 0
+    button1text: 
+    button1msg: 
+    button2text: 
+    button2msg: 
+  - dialogtext: CCCCCCCCCC
+    charadisplaya: 1
+    charadisplayb: 1
+    hasbuttonchoice: 0
+    button1text: 
+    button1msg: 
+    button2text: 
+    button2msg: 
